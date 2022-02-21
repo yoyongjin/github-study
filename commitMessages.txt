@@ -1,1 +1,3 @@
-Git 커밋 타입(태그) 연습
+Git 커밋 message
+
+branch 만들기(develop)
